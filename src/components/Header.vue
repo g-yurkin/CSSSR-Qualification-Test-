@@ -22,13 +22,14 @@ export default {
         display: flex
         flex-direction: column
         align-items: center
-        padding: 0 0 30px 0;
+        justify-content: center
+        padding: 0 0 10px 0;
             
     .header__top 
         width: 100%
         display: flex
         justify-content: space-between
-    
+            
     .logo 
         width: 154px
         height: 52px
@@ -36,10 +37,11 @@ export default {
     .slogan 
         height: 252%
         height: 106px
-        transform: translate(30px, -30px)  
+        transform: translate(60px, -10px)  
     
     .title 
         width: 221px
+        transform: translate(-20px, -10px)
 
     @media screen and (max-width: 767px)
         .logo

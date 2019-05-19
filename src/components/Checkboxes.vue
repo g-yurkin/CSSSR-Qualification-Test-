@@ -97,7 +97,7 @@ export default {
 <style lang="stylus" scoped>
     .checkboxes
         width: 100%
-        padding: 30px 0
+        padding: 30px 0 15px 0
         display: flex
         flex-wrap: wrap
 
@@ -119,7 +119,6 @@ export default {
 
     .checkboxes__container
         width: calc(100% / 3)
-        
         display: flex
         flex-direction: column
            

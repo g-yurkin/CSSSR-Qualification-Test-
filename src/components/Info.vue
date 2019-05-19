@@ -33,11 +33,11 @@ export default {
         display: flex
         flex-direction: column
         align-items: stretch
-        padding: 30px 0 
+        padding: 30px 0 5px 0
     
     .info__line
         width: 100%
-        height: 60px  
+        height: 63px  
         display: flex
         flex-wrap: wrap
             
@@ -54,14 +54,14 @@ export default {
         font-family: 'CourierNewPSMT'
         font-size 1.875em
         font-weight 400
-        line-height: 45px
+        line-height: 40px
         color: #231f20
         flex-basis: content
         flex-grow: 1
         height: 60px
-        padding: 0 1rem
+        padding: 0 10px
         background-image url("../assets/images/Horisontal.png")
-        background-position: 0 75px 
+        background-position: 0 72px 
 
     @media screen and (max-width: 767px)
         .info__line

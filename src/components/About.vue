@@ -20,7 +20,7 @@ export default {
 <style lang="stylus" scoped>
     .about
         width: 100%
-        padding: 30px 0
+        padding: 15px 0
         display: flex
         flex-wrap: wrap
 
@@ -38,7 +38,7 @@ export default {
         font-weight: 400
         line-height: 23px
         color: #3d3d3d
-        padding-bottom: 16px 
+        padding-bottom: 25px 
 
     .about__story
         width: 100%

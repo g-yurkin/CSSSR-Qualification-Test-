@@ -22,6 +22,7 @@ export default {
         font-size: 22px
         font-weight: 700
         line-height: 50px
+        color: #2f1b15
         padding-right: 16px
 
     .data__answer

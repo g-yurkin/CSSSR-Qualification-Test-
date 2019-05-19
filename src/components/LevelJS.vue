@@ -44,7 +44,7 @@
 <style lang="stylus" scoped>
     .leveljs
         width: 100%
-        padding: 30px 0
+        padding: 30px 0 0 0
 
     .leveljs__title
         width: 100%
