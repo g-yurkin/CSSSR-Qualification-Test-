@@ -26,12 +26,12 @@ export default {
         padding-right: 16px
 
     .data__answer
-         font-family: 'CourierNewPSMT'
-         font-size: 30px
-         line-height: 36px
-         padding: 0 16px
-         background-image: url('../assets/images/Horisontal.png')
-         background-position 0 6px
+        font-family: 'CourierNewPSMT'
+        font-size: 30px
+        line-height: 36px
+        padding: 0 16px
+        background-image: url('../assets/images/Horisontal.png')
+        background-position 0 6px
 
 
     @media screen and (max-width: 767px)
